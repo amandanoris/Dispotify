@@ -18,11 +18,9 @@
 
 ## Tecnologías Utilizadas
 
-- **Backend**: Python (con asyncio, socket, y Kademlia).
+- **Backend**: Python.
 - **Frontend**: JavaScript (NPM).
-- **Protocolos y librerías**:
-  - Kademlia para la red distribuida y almacenamiento seguro.
-  - asyncio para la gestión asíncrona de procesos.
+
 
 ## Estructura del Proyecto
 
